@@ -8,9 +8,8 @@
 
 ## HOW TO RUN
 
-Run the following command in the terminal.
-'''
+- Run the following command in the terminal.
+	  ```
+	   python backend_2.py
+	  ```
 
-python backend_2.py
-
-'''
