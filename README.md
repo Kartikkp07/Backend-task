@@ -1,4 +1,11 @@
-# Backend-task-python
-making a user login signup system to run on terminal, using python,along with storing info of previously registered users ,to be pulled for login, in a csv file while hashing their passwords.
+ABOUT
 
-RUN backend_2.py IN ORDER TO SEE THIS PROJECT IN ACTION.
+This is a user login signup system that runs on terminal.
+Codebase uses python and involves storing the information of previously registered users in a csv while hashing their passwords.
+For login the user is prompted with the required login id and password which is then cross-checked with the data in csv to validate login.
+
+
+
+HOW TO RUN
+
+RUN python3 backend_2.py IN THE TERMINAL.
